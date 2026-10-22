@@ -11,11 +11,6 @@ Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-00C8F0?style=for-the-ba
 With](https://img.shields.io/badge/Built_with-Web_Technologies-7C5CFC?style=for-the-badge)](#-technology)
 [![Status](https://img.shields.io/badge/Status-Active_Development-00B894?style=for-the-badge)](#-project-status)
 
-`<br />`{=html}
-
-`<img src="./quantum-elements-preview.png" alt="QuantumElements interactive 3D periodic table interface" width="100%" />`{=html}
-
-`<br />`{=html}
 
 *A hands-on visual journey through the periodic table, atomic structure,
 electron orbitals, and elemental trends.*
