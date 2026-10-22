@@ -1,4 +1,3 @@
-::: {align="center"}
 # ⚛️ QuantumElements
 
 ### Interactive 3D Periodic Table & Atomic Physics Explorer
