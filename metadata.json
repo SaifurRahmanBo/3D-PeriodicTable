@@ -1,0 +1,6 @@
+{
+  "name": "QuantumElements - Interactive 3D Periodic Table",
+  "description": "Interactive 3D periodic table of elements with real-time atomic models, electron orbitals, and scientific profiles for all 118 elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
